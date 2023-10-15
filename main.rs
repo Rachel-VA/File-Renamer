@@ -1,7 +1,7 @@
 /*
 Rachael Savage
 SPS 323-Rust
-Professor Tony Hinton
+
 07/26/23
 */
 //bring external crates (libraries) into the app. they must be added in the Cargo toml file under dependencies
